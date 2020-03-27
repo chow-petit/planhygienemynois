@@ -330,13 +330,21 @@ Les poudres de plantes dites "ayurvédiques" proviennent, sans surprise, d'Inde.
 
 ### Absolues et extraits CO2
 
-### Cires et gommes
+### Gommes et gélifiants
+
+* **[Agar agar](https://www.aroma-zone.com/info/fiche-technique/gomme-agar-agar-aroma-zone)** - Ce puissant gélifiant permet de réaliser des gels compacts, des patchs cosmétiques, des blocs décoratifs et odorants,… En cuisine, c'est un substitut idéal et diététique de la gélatine animale
+
+* **[Carraghénane](https://www.aroma-zone.com/info/fiche-technique/gomme-carraghenane-aroma-zone)** - Extraite d'algues rouges, cette poudre de Carraghénane Iota permet de réaliser des gels transparents élastiques et des textures "gelée" idéales pour toutes sortes de produits gélifiés très ludiques, comme les "gelées de douche".
+
+* **[Xanthane](https://www.aroma-zone.com/info/fiche-technique/gomme-xanthane-aroma-zone)** - Ce gélifiant d'origine naturelle permet la réalisation de beaux gels aqueux transparents. Ce grade facilement dispersible rend la préparation très facile, même à froid. A faible dosage, la Xanthane améliore la stabilité des émulsions.
+
+* **[Gomme arabique](https://www.aroma-zone.com/info/fiche-technique/gomme-acacia-ou-arabique-aroma-zone)** - Ou gomme d'acacia. Agent d'adhésion et de cohésion, notamment pour améliorer la tenue des mascaras et eye liners, la gomme Acacia ou gomme arabique est aussi un actif cosmétique "tenseur" et liftant pour vos soins anti-âge et contour des yeux…
 
 ### Emulsifiants et épaississants
 
-### Ajusteurs de pH
+### Tensioactifs
 
-### Agents lavants et moussants
+
 
 ### Conservateurs et anti-oxydants
 
@@ -370,21 +378,25 @@ Les poudres de plantes dites "ayurvédiques" proviennent, sans surprise, d'Inde.
 :::
 
 
-### Agentsmulti-usages & Produits chimiques de base
+### Agents multi-usages & Produits chimiques de base
 
 * **[Alcool 70%](https://medicament.ooreka.fr/astuce/voir/724967/alcool-a-70)** - Une solution antiseptique et désinfectante d'éthanol à usage médical externe.
 
 * **[Soude caustique](https://fr.wikipedia.org/wiki/Hydroxyde_de_sodium)** - L'hydroxyde de sodium pur est appelé soude caustique. Dans les conditions normales, il se trouve sous forme solide cristalline. C'est un corps chimique minéral composé de formule chimique NaOH, qui est à température ambiante un solide ionique. Il est fusible vers 318 °C, il se présente généralement sous forme de pastilles, de paillettes ou de billes blanches ou d'aspect translucide, corrosives. Il est très hygroscopique, il est d'ailleurs aussi souvent commercialisé sous la forme dissoute dans l'eau. Il y est en effet très soluble. Il est également très soluble dans l'éthanol. Dégraissant puissant et nettoyant multi-fonctions, le carbonate de soude, aussi connu sous le nom de cristaux de soude, est indispensable pour fabriquer vos produits d’entretien de la maison naturels et économiques. Très efficaces, les cristaux de soude s'utilisent au quotidien pour préparer vos lessives maison, dégraisser et récurer les plats, entretenir les canalisations, nettoyer le four, les plaques de cuisson, l'évier, la salle de bain... Les cristaux de soude sont aussi appréciés pour les gros travaux : nettoyage de terrasses, décapage des peintures ou papiers peints.
 
-* **[Acide citrique](https://fr.wikipedia.org/wiki/Acide_citrique)** - L'acide citrique est un acide tricarboxylique α-hydroxylé présent en abondance dans le citron, d'où son nom. Il s'agit d'un acide faible qui joue un rôle important en biochimie comme métabolite du cycle de Krebs, une voie métabolique majeure chez tous les organismes aérobies. 
+* **[Acide citrique](https://www.aroma-zone.com/info/fiche-technique/acide-citrique-aroma-zone)** - L'acide citrique est un acide tricarboxylique α-hydroxylé présent en abondance dans le citron, d'où son nom. Il s'agit d'un acide faible qui joue un rôle important en biochimie comme métabolite du cycle de Krebs, une voie métabolique majeure chez tous les organismes aérobies. Ingrédient indispensable pour confectionner les boules de bain en association avec le bicarbonate de soude, c'est aussi un agent détartrant pour l'entretien ménager. Il sert également à diminuer le pH des préparations.
 
-* **[Bicarbonate de soude](https://fr.wikipedia.org/wiki/Bicarbonate_de_sodium)** - Le bicarbonate de sodium Écouter (ou carbonate monosodique ou carbonate acide de sodium, anciennement bicarbonate de soudea), l'hydrogénocarbonate de sodium en nomenclature moderne, est un composé chimique inorganique décrit par la formule brute NaHCO3. C'est un composé ionique blanc de l'anion hydrogénocarbonate et du cation sodium, qui se présente sous forme de poudres. La forme ultra pure, très rare, est constituée de cristaux prismatiques blancs. Ce corps minéral anhydre, sous l'appellation minéralogique de nahcolite, apparaît néanmoins dans la nature sous la forme d'agrégats de cristaux prismatiques, le plus souvent en veines fibreuses ou en concrétions. Au laboratoire, l'hydrogénocarbonate de sodium apparaît sous la forme de fins cristaux blancs, solubles dans l'eau.
+* **[Acide lactique](https://www.aroma-zone.com/info/fiche-technique/acide-lactique-aroma-zone)** - L'acide lactique s'utilise pour diminuer le pH des préparations, notamment les shampooings et soins capillaires. En particulier, il est indispensable pour activer le Conditioner Emulsifier et il permet d'apporter de la brillance aux cheveux. L'acide lactique a une très bonne affinité avec la peau et le cheveu et favorise une bonne hydratation et l'élimination des cellules mortes. Il donne aussi du brillant aux cheveux.
+
+* **[Bicarbonate de soude](https://www.aroma-zone.com/info/fiche-technique/bicarbonate-de-soude-aroma-zone)** - Le bicarbonate de sodium (ou carbonate monosodique ou carbonate acide de sodium, anciennement bicarbonate de soudea), l'hydrogénocarbonate de sodium en nomenclature moderne, est un composé chimique inorganique décrit par la formule brute NaHCO3. C'est un composé ionique blanc de l'anion hydrogénocarbonate et du cation sodium, qui se présente sous forme de poudres. La forme ultra pure, très rare, est constituée de cristaux prismatiques blancs. Ce corps minéral anhydre, sous l'appellation minéralogique de nahcolite, apparaît néanmoins dans la nature sous la forme d'agrégats de cristaux prismatiques, le plus souvent en veines fibreuses ou en concrétions. Au laboratoire, l'hydrogénocarbonate de sodium apparaît sous la forme de fins cristaux blancs, solubles dans l'eau. Indispensable du ménage écologique, le bicarbonate de soude nettoie, dégraisse et fait briller les surfaces : lavabos, douche, plaques de cuisson... Economique et multi-fonctions, il neutralise les mauvaises odeurs dans la poubelle ou le réfrigérateur.
 
 * **[Percarbonate de soude](https://www.aroma-zone.com/info/fiche-technique/ecodetergent-percarbonate-de-soude-aroma-zone)** - Indispensable du ménage économique, ce nettoyant ménager dégraissant, blanchissant et purifiant s'utilise pour détacher et blanchir le linge, décrasser les plats et casseroles, nettoyer les joints de carrelages dans la cuisine, la salle de bain, sur les terrasses… Très efficace sur les taches organiques, il sera idéal comme complément à votre lessive écologique pour le blanc, comme détachant avant lavage mais aussi pour la vaisselle, pour éliminer les taches et faire briller.
 
 * **[Acide chlorhydrique](https://fr.wikipedia.org/wiki/Acide_chlorhydrique)** - L'acide chlorhydrique est une solution de chlorure d'hydrogène dans l'eau. Le chlorure d'hydrogène, un acide fort, est un gaz diatomique de formule chimique HCl qui s'ionise totalement en solution aqueuse pour donner toute une variété d'espèces chimiques, notamment des anions chlorure Cl– et des cations hydronium H3O+, ces derniers étant en moyenne solvatés par cinq molécules d'eau ; diverses variétés d'ions oxonium sont également présents parmi les solutés. Il se présente sous la forme d'un liquide incolore d'aspect aqueux à l'odeur piquante très reconnaissable. L'acide concentré est très corrosif, avec des émanations ou « fumées » toxiques, et il doit être manié avec précaution5 ; il peut avoir un pH inférieur à -16.
 
 * **[Carbonate de calcium](https://www.aroma-zone.com/info/fiche-technique/carbonate-de-calcium-aroma-zone)** - Le carbonate de calcium s'utilise principalement dans les dentifrices comme épaississant et abrasif doux. Il est aussi intéressant pour son pouvoir opacifiant, notamment comme support blanc dans les produits de maquillage. Connu sous le nom "blanc de Meudon" il s'utilise également pour l'entretien ménager, pour nettoyer et polir les surfaces fragiles.
+
+* **[Eau de chaux](https://www.aroma-zone.com/info/fiche-technique/eau-de-chaux-aroma-zone)** - Associée à une huile végétale, l'eau de chaux est l'ingrédient indispensable pour fabriquer des liniments oléo-calcaires à utiliser comme nettoyant doux ou démaquillant. L'eau de chaux peut aussi s'utiliser comme ajusteur de pH, pour augmenter le pH de vos lotions ou produits moussants.
 
 ### Produits déjà tout fait
 
